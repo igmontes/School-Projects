@@ -19,6 +19,8 @@ Simple Console project for inventory system that uses an array of structs (no da
 ConsoleInventory.cs:
 Since this is the only program in the ConsoleInventory project, I uploaded it separately so you can view the code without downloading zipped project file.
 
+PhotoView.zip: 
+WPF project for a slide show that actually became more of an inventory project for musical instruments and gear. It uses a data grid to hold information about each item, an image container to display an image of the item, and a button to bring up a screen where you can add and/or modify items. I initially seed the data grid with a mock xml file used in the PhotoList.cs file, and it loads the information and the path for the image for each item (images not included in the zip). 
 
 
 
